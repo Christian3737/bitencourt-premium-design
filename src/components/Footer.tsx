@@ -37,6 +37,9 @@ const Footer = () => {
         <p className="text-surface-dark-foreground/30 text-xs">
           © {new Date().getFullYear()} Bitencourt Esquadrias e Vidros. Todos os direitos reservados.
         </p>
+        <p className="text-surface-dark-foreground/30 text-xs mt-2">
+          Desenvolvido por Christian Izidoro
+        </p>
       </div>
     </footer>
   );
