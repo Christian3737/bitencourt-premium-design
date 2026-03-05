@@ -3,12 +3,21 @@ import galleryFacade from "@/assets/fachada.jpeg";
 import galleryDoors from "@/assets/Portas.jpeg";
 import galleryBox from "@/assets/box.jpeg";
 import galleryWindows from "@/assets/esquadria.jpeg";
+import gallery1 from "@/assets/boxpremium.jpeg";
+import gallery2 from "@/assets/cobertura.jpeg";
+import gallery3 from "@/assets/portacorrer.jpeg";
+import gallery4 from "@/assets/porta-4.jpeg";
 
 const images = [
   { src: galleryFacade, alt: "Fachada comercial com pele de vidro", label: "Fachadas" },
   { src: galleryDoors, alt: "Portas e janelas de alumínio", label: "Portas e Janelas" },
   { src: galleryBox, alt: "Box de banheiro em vidro temperado", label: "Box de Banheiro" },
   { src: galleryWindows, alt: "Janela de alumínio premium", label: "Esquadrias" },
+    { src: gallery1, alt: "Fachada comercial com pele de vidro", label: "Box premium" },
+  { src: gallery2, alt: "Portas e janelas de alumínio", label: "Cobertura em vidro" },
+  { src: gallery3, alt: "Box de banheiro em vidro temperado", label: "Porta de correr-" },
+  { src: gallery4, alt: "Janela de alumínio premium", label: "Porta 4 folhas" },
+  
 ];
 
 const GallerySection = () => {
