@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
-import galleryFacade from "@/assets/gallery-facade.jpg";
-import galleryDoors from "@/assets/gallery-doors.jpg";
-import galleryBox from "@/assets/gallery-box.jpg";
-import galleryWindows from "@/assets/gallery-windows.jpg";
+import galleryFacade from "@/assets/fachada.jpeg";
+import galleryDoors from "@/assets/Portas.jpeg";
+import galleryBox from "@/assets/box.jpeg";
+import galleryWindows from "@/assets/esquadria.jpeg";
 
 const images = [
   { src: galleryFacade, alt: "Fachada comercial com pele de vidro", label: "Fachadas" },
