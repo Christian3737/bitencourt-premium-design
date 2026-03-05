@@ -60,7 +60,7 @@ const HeroSection = () => {
             <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
               <Button variant="hero" size="lg" className="h-14 px-10 text-base gap-3">
                 <MessageCircle className="!size-5" />
-                Solicitar Orçamento no WhatsApp
+                Solicitar Orçamento
               </Button>
             </a>
           </motion.div>

@@ -40,7 +40,7 @@ const CTASection = () => {
           <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
             <Button variant="cta" size="lg" className="h-16 px-12 text-lg gap-3">
               <MessageCircle className="!size-6" />
-              Falar Agora no WhatsApp
+              Falar agora
             </Button>
           </a>
         </motion.div>
